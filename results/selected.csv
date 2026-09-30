@@ -1,0 +1,3 @@
+"key","external","price","bok_position","n_var","lag_use","n_obs","AIC","BIC","pt_p","arch_p","jb_p","roots_ok","cusum_ok","svar_ok","erpt_h1","erpt_h6","erpt_h12","erpt_h24","neer_fevd24","pass_pt","pass_arch","pass_root","pass_cusum","pass_all"
+"oil_ipi_before_neer","oil","ipi","before_neer",4,3,190,-3012.5,-2817.6,0.3411,0.1024,0,TRUE,TRUE,TRUE,-1.001,-1.0115,-0.9848,-0.9852,33.14,TRUE,TRUE,TRUE,TRUE,TRUE
+"fed_rate_cpi_before_neer","fed_rate","cpi","before_neer",4,3,190,-3388.6,-3193.8,0.4572,0.1917,0,TRUE,TRUE,TRUE,0.003,-0.0256,-0.0281,-0.0287,2.06,TRUE,TRUE,TRUE,TRUE,TRUE

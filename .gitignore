@@ -1,0 +1,20 @@
+# ---- 개인 키 ----
+.Renviron
+
+# ---- R 세션 파일 ----
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+*.rds
+Rplots.pdf
+
+# ---- 원자료 (재배포하지 않음, data/README.md 참고) ----
+data/raw/*
+!data/raw/.gitkeep
+
+# ---- 기타 ----
+.DS_Store
+Thumbs.db
+~$*
+.claude/
